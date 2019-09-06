@@ -14,7 +14,7 @@ Git Workshop Activity - Prepping you for carpentries checkout
 
 3. Open http://www.everypoet.com/haiku/ generate your own haiku poem by clicking New Haiku.
 
-4. Copy the haiku text and place it in a text editor like notepad++ or sublimte text.
+4. Copy the haiku text and place it in a text editor like notepad++ or sublime text.
 
 5. Save the file as a .txt file type.
 
