@@ -1,6 +1,6 @@
 # Git Workshop
 
-Git Workshop Project
+Git Workshop Activity - Prepping you for carpentries checkout
 
 ## Steps to Contribute
 
@@ -32,5 +32,5 @@ You will see the name of the file you created listed.
 
 8. I will review your pull request and merge it! 
 
-9. You're done! Congratulations!
+9. You're done! Congratulations! 🎉🎉🎉
 
