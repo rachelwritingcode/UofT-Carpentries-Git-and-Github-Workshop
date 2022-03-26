@@ -8,6 +8,10 @@
 - A non-profit that teaches data and coding skills to build global capacity in essential data and computational skills.
 - More information about them can be found [here](https://carpentries.org/about/).
 
+
+## Where can I find the slides?
+- The slides for the workshop can be found [here](https://docs.google.com/presentation/d/12bTlX9TLeKlBgRKVjLKifcON3wQde0GvZbGAUD3DaZI/edit).
+
 ---
 
 ## Workshop Steps for Participants
