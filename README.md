@@ -1,8 +1,16 @@
-# Git Workshop
+## University of Toronto Carpentries Community Git & Github Workshop 👩🏻‍🏫
 
-Git Workshop Activity - Prepping you for carpentries checkout
+- This workshop introduces users on how to use git and create their first pull request.
+- I created a repo with haiku poems and walk attendees through the process of adding their own haiku poems to the repo.
+- Attendees do not need to have any prior knowledge to attending the workshop.
 
-## Steps to Contribute
+## What is Carpentries?
+- A non-profit that teaches data and coding skills to build global capacity in essential data and computational skills.
+- More information about them can be found [here](https://carpentries.org/about/).
+
+---
+
+## Workshop Steps for Participants
 
 1. Open your terminal and clone the repository to your local machine. You can clone the project by running this command.
 
